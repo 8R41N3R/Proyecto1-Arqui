@@ -1,0 +1,5 @@
+Nota de aprobación: 70
+Nota de Reposisción: 50
+Tamaño de los grupos de notas: 10
+Escala del gráfico: 20
+Ordenamiento: numerico
